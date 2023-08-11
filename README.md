@@ -9,7 +9,8 @@
 
 3. Synthesis: TSMC - 130nm - 1GHz
    
-   <img width="417" alt="image" src="https://github.com/KiuQuy/WB2APB/assets/100481767/71023548-bce9-415f-9df1-4730eb38b21a">
+   <img width="803" alt="image" src="https://github.com/KiuQuy/WB2APB/assets/100481767/d20a7cd3-1d36-4225-82e8-fa46b2462446">
+
 
 5. Block diagram: Wishbone Slave, APB Master, APB Timeout Monitor, Register Block, Performance Measurement, Reset Manager
 
